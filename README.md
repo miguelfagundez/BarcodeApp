@@ -1,6 +1,6 @@
 # my_barcode_reader
 
-A new Flutter application.
+A new Flutter application. Barcode app example. Online course Fernando Herrera.
 
 ## Getting Started
 
